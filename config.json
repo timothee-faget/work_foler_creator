@@ -1,0 +1,68 @@
+{
+    "GT_folder" : "D:/Documents/GitHub/work_foler_creator/TEST/01_GT",
+    "ROMAX_folder" : "D:/Documents/GitHub/work_foler_creator/TEST/02_ROMAX/01_Modeles",
+    "GT_subfolders" : [
+        {
+            "subfolder" : "/01_V6"
+        },
+        {
+            "subfolder" : "/02_MONS"
+        },
+        {
+            "subfolder" : "/03_AAC"
+        },
+        {
+            "subfolder" : "/06_MONV"
+        },
+        {
+            "subfolder" : "/08_Attelage_Mobile"
+        },
+        {
+            "subfolder" : "/10_BORG"
+        }
+    ],
+    "default_subfolders" : [
+        {
+            "subfolder" : "01_Modeles"
+        },
+        {
+            "subfolder" : "02_Data"
+        },
+        {
+            "subfolder" : "03_CAOs"
+        },
+        {
+            "subfolder" : "04_Analyse_Resultats"
+        },
+        {
+            "subfolder" : "05_Autres"
+        }
+    ],
+    "folder_types" : [
+        {
+            "type" : "-"
+        },
+        {
+            "type" : "GT - V6"
+        },
+        {
+            "type" : "GT - MONS"
+        },
+        {
+            "type" : "GT - AAC"
+        },
+        {
+            "type" : "GT - MONV"
+        },
+        {
+            "type" : "GT - Attelage Mobile"
+        },
+        {
+            "type" : "GT - BORG"
+        },
+        {
+            "type" : "ROMAX"
+        }
+    ],
+    "separator_index" : 8
+}
